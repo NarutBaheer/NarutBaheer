@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Baheer Noori</h1>
-<h3 align="center">Junior developer & IT specialist/manager</h3>
+<h3 align="center">Full Stack Developer | Software Engineer | UI/UX designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narutbaheer&label=Profile%20views&color=0e75b6&style=flat" alt="narutbaheer" /> </p>
 
 - 🌱 I’m currently learning **ReactJS & C++**
 
-- 💬 Ask me about **I'm a junior developer and an IT professional with over five years of experience. Who has cultivated a mature and responsible approach to any task I undertake or circumstance I am presented with. Despite having an IT diploma, I'm currently pursuing a bachelor's degree in computer science at "AUAF & Bard university." (third-year student). I'm looking for opportunities to advance my career as a computer specialist.**
+- 💬  **Improving my coding skills.**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/baheer-noori-a9411b226/](https://www.linkedin.com/in/baheer-noori-a9411b226/)
 
