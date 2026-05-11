@@ -30,9 +30,3 @@ Computer Science Student | Aspiring Software Developer | IT Support
 </p>
 
 ---
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NarutBaheer&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
